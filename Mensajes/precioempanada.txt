@@ -1,0 +1,10 @@
+Las empanadas que estan en ventan son:
+1--> Empanda de carnet--> 1.00$ --> Elija 1 si desea la empanda de carnet
+2--> Empanda de queso --> 1.00$ --> Elija 2 si desea la empanda de carnet
+3--> Empanada de pollo --> 1.50$ --> Elija 3 si desea la empanda de carnet
+4--> Empanada Especial --> 2.30$ --> Elija 4 si desea la empanda de carnet
+5--> Empanda de pabellon --> 2.00$ --> Elija 5 si desea la empanda de carnet
+
+Si ya pidio pero desa otra de las opciones elijala para completar su pedido
+
+Escriba "0" si desea volver

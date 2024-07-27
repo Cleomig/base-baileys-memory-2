@@ -1,0 +1,6 @@
+Elige algunas de estas Opciones:
+Escriba 1 -> lista de Precios
+Escriba 2 -> Metodos de pago
+Escriba 3 -> Asistencia por bot
+Escriba 4 -> Información
+Escriba 0 -> volver para volver al inicio

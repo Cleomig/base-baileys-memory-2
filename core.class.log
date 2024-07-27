@@ -1,0 +1,215 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: '8284445614503A2789EAA3F419C312F3',
+    participant: undefined
+  },
+  messageTimestamp: 1722087064,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584249693356'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d3a75f5-44bb-419c-af78-e635e4317c4b',
+  keyword: 'key_dbebd486-8233-4a1d-a966-7633dc07e84f',
+  answer: '🙌 Hola, sea cordialmente bienvenido a Cavaniershop🙌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '55edb1741aa5ce702cda79b20cad0665'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e4310142-d35c-4ce1-a1be-9dd246ca090e',
+  keyword: 'ans_7d3a75f5-44bb-419c-af78-e635e4317c4b',
+  answer: 'Escriba algunas de las opciones para seguir atendiéndolo:\n' +
+    '-->  Menu\n' +
+    '-->  Metodo de Pagos\n' +
+    '-->  Información del local',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0ed64ee3997ae844a8caa57e942ed99d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: '168093C015601A24730242CAC2683A93',
+    participant: undefined
+  },
+  messageTimestamp: 1722087065,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584249693356'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE1BB8664E72021A82A98895826A8ACD',
+    participant: undefined
+  },
+  messageTimestamp: 1722087070,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Menu',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584249693356'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9fd5c973-523c-4afc-a384-6c911f980877',
+  keyword: 'key_cb434714-92fd-4108-aa00-f010c3eccd5b',
+  answer: 'Elige algunas de estas Opciones:\r\n' +
+    'Escriba 1 -> lista de Precios\r\n' +
+    'Escriba 2 -> Metodos de pago\r\n' +
+    'Escriba 3 -> Asistencia por bot\r\n' +
+    'Escriba 4 -> Información\r\n' +
+    'Escriba 0 -> volver para volver al inicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '40620aca1af519828fca94050a1ec2e6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: '71C6CC15B2F6F3DCCA6F70A049D6F8A2',
+    participant: undefined
+  },
+  messageTimestamp: 1722087070,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584249693356'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: 'C367FFAC5CC29E611D2905167085C8F5',
+    participant: undefined
+  },
+  messageTimestamp: 1722087074,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584249693356'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584249693356@s.whatsapp.net',
+    fromMe: false,
+    id: '74AC2338EF0D17E1EBD68FEF81AB70E0',
+    participant: undefined
+  },
+  messageTimestamp: 1722087075,
+  pushName: 'Cleomig Fonseca',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '584249693356'
+}

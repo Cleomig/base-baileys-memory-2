@@ -1,0 +1,9 @@
+Las empanadas que estan en ventan son:
+1--> Combo de 4 empandas de carnet--> 2.50$ --> Escriba 1 para ordenar
+2--> Combo de 6 empandas especiales --> 5.00$ --> Escriba 2 para ordenar
+3--> Combo de Empanda especial con calabresa y papas --> 5.00$ --> Escriba 3 para ordenar
+4--> combo de 4 empanadas y refresco --> 5.00$ --> Escriba 4 para ordenar
+
+Si ya pidio pero desa otra de las opciones elijala para completar su pedido
+
+Escriba "0" si desea volver

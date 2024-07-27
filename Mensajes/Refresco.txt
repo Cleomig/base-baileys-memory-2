@@ -1,0 +1,10 @@
+Las empanadas que estan en ventan son:
+1--> Pepsy--> 1.00$ --> Escriba 1 para ordenar
+2--> chynoto --> 0.80$ --> Escriba 2 para ordenar
+3--> cocacola --> 0.80$ --> Escriba 3 para ordenar
+4--> frescolita --> 1.00$ --> Escriba 4 para ordenar
+5--> nestey --> 0.50$ --> Escriba 5 para ordenar
+
+Si ya pidio pero desa otra de las opciones elijala para completar su pedido
+
+Escriba "0" si desea volver
